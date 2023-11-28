@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Landerson Miranda
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and javascript
 - 💞️ at the moment I'm focused on learning
 
 <!---
