@@ -1,6 +1,10 @@
 
 
-### Opa! Me chamo Landerson🤙🏾
+### Landerson Miranda
+
+👨‍🎓 Information Systems student at UFBA
+
+📚 I'm currently studying ASP.NET MVC
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miranda_landerson)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/landerson-miranda-b094b31bb/)
 
@@ -8,7 +12,7 @@
 ![Landerson GitHub stats](https://github-readme-stats.vercel.app/api?username=landersonmiranda&show_icons=true&theme=dracula)
 
 
-## Tecnologias que utilizo
+## Languages
 
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
